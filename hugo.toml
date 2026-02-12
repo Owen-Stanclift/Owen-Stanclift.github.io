@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Owen Stanclift'
 theme = 'mana' 
 
 [caches]
@@ -8,20 +8,20 @@ theme = 'mana'
     dir = ':cacheDir/images'
  
 [params]
-  description = "Your site description"
+  description = "Owen Stanclift's Game Programmer Portfolio"
   favicon = "/favicon/favicon.ico"
   footerText = "Built with Hugo and Mana theme"  # Optional
   
   # Hero section title (optional - defaults to site.Title)
-  heroTitleLine1 = "Your Site Name"  # First line of hero title
-  heroTitleLine2 = "Your Tagline"    # Second line of hero title (optional)
+  heroTitleLine1 = "Owen"  # First line of hero title
+  heroTitleLine2 = "Stanclift"    # Second line of hero title (optional)
 
  # Custom message for the 404 error page (supports HTML)
   # If not set, defaults to: "Sorry, the page you are looking for could not be found."
   custom404Message = "Sorry, the page you are looking for could not be found. I guess I don't have a guide for <em>everything</em>"
 
 [params.avatar]
-  url = "https://example.com/avatar.jpg"
+  url = "https://media.licdn.com/dms/image/v2/D4E03AQF_Uzwf8KfbHw/profile-displayphoto-scale_400_400/B4EZxOkEoFK0Ak-/0/1770844605470?e=1772668800&v=beta&t=f03upFgi4uocfcTEtzQiLuNHr8DwO5BQ2n74x5N2gIw"
 
 [params.social]
   github = "https://github.com/yourusername"
@@ -39,8 +39,8 @@ theme = 'mana'
   weight = 20
 
 [[menus.main]]
-  name = 'Tags'
-  pageRef = '/tags'
+  name = 'Resume'
+  pageRef = '/resume'
   weight = 30
 
 [[menus.main]]
