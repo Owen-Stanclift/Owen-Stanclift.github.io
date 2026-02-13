@@ -35,17 +35,17 @@ theme = 'mana'
 
 [[menus.main]]
   name = 'Projects'
-  url = '/projects/'
+  pageRef = '/projects/'
   weight = 20
 
 [[menus.main]]
   name = 'Resume'
-  url = '/resume/'
+  pageRef = '/resume/'
   weight = 30
 
 [[menus.main]]
   name = 'About'
-  url = '/about/'
+  pageRef = '/about/'
   weight = 40
 
 [pagination]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Owen Stanclift</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Owen Stanclift</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 14:19:36 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chop Off</title>
+      <link>http://localhost:1313/projects/chop-off/</link>
+      <pubDate>Mon, 26 Jan 2026 14:19:36 -0500</pubDate>
+      <guid>http://localhost:1313/projects/chop-off/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;My second game I made with a team. An educational game that can be played on Android devices that teaches kids about the Lumber Jack games while playing a series of minigames related to them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Architecture Final</title>
+      <link>http://localhost:1313/projects/gamearchitecturefinal/</link>
+      <pubDate>Mon, 26 Jan 2026 14:19:36 -0500</pubDate>
+      <guid>http://localhost:1313/projects/gamearchitecturefinal/</guid>
+      <description>&lt;p&gt;___&lt;/p&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;GameArchitectureFinal:&#xA;A final that turned out way better than expected. A Turn-Based RPG made from Visual Studio and a library alone, no game engine. The game had an animation manager to go through sprite sheets of characters as well as many other gameplay mechanics I programmed in like saving.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game-AI-Final</title>
+      <link>http://localhost:1313/projects/gameaifinal/</link>
+      <pubDate>Mon, 26 Jan 2026 14:19:36 -0500</pubDate>
+      <guid>http://localhost:1313/projects/gameaifinal/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Game-AI-Final:&#xA;The final that got me really into AI. I used Unreal Engine&amp;rsquo;s behaviors tree to create enemies that scout the player and alert others to go on the attack. They chase they player and can jump from ledge to ledge to chase them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jurassic Pack</title>
+      <link>http://localhost:1313/projects/jurassicpack/</link>
+      <pubDate>Mon, 26 Jan 2026 14:19:36 -0500</pubDate>
+      <guid>http://localhost:1313/projects/jurassicpack/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;One of my largest games and one I take a lot of pride in. This was the largest team I have ever worked with and we created an Auto-Battler Card opening game with Dinosaurs. As lead programmer I did a lot of the mechanics and enemy AI to create the strategic depth of the game as well as create the &amp;ldquo;auto&amp;rdquo; part in Auto-Battler.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lurking Below</title>
+      <link>http://localhost:1313/projects/lurkingbelow/</link>
+      <pubDate>Mon, 26 Jan 2026 14:19:36 -0500</pubDate>
+      <guid>http://localhost:1313/projects/lurkingbelow/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;My first networking game with a larger team. A three player Chase &amp;rsquo;em that involves a diver fixing machines underwater, an engineer in the submarine to guide the diver, and the creature who tries to hunt the diver. I spent a lot of time learning how Networking works in Unreal and made a functioning lobby system that can assign roles to each player as well as create all the tasks the Engineer does in the submarine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note Evasion</title>
+      <link>http://localhost:1313/projects/note-evasion/</link>
+      <pubDate>Mon, 26 Jan 2026 14:19:36 -0500</pubDate>
+      <guid>http://localhost:1313/projects/note-evasion/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;The First game I ever made with a team. A simple rhythm game where you dodge incoming notes to the beat of the song. As the lone programmer I did all the gameplay mechanics as well as make tools for designers to use and shape the game.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
