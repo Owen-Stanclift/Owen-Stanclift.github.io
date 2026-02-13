@@ -34,8 +34,8 @@ theme = 'mana'
   weight = 10
 
 [[menus.main]]
-  name = 'Posts'
-  url = '/posts/'
+  name = 'Projects'
+  url = '/projects/'
   weight = 20
 
 [[menus.main]]
