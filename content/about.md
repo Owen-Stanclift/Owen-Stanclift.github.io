@@ -1,8 +1,7 @@
 +++
 date = '2026-01-26T14:19:36-05:00'
-draft = true
+draft = false
 title = 'Owen Portfolio'
-
 theme = 'mana'
 +++
 
