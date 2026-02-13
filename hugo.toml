@@ -1,4 +1,4 @@
-baseURL = 'https://owen-stanclift.github.io'
+baseURL = 'https://owen-stanclift.github.io/'
 languageCode = 'en-us'
 title = 'Owen Stanclift'
 theme = 'mana' 
