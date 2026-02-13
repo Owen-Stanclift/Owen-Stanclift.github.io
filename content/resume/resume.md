@@ -2,19 +2,21 @@
 date = '2026-01-26T14:19:36-05:00'
 draft = true
 title = 'Resume'
+
+theme = 'mana'
 +++
 
 ## Owen Stanclift
 
 ## 
 
-## Location: Clifton Park, NY 
+## Location: Clifton Park, NY
 
 ## Contact: (518) 407-7557
 
-## Email: owen.stanclift@mymail.champlain.edu 
+## Email: owen.stanclift@mymail.champlain.edu
 
-## LinkedIn: https://www.linkedin.com/in/owen-stanclift/ 
+## LinkedIn: https://www.linkedin.com/in/owen-stanclift/
 
 ## 
 
@@ -30,7 +32,7 @@ title = 'Resume'
 
 ## Interpersonal Skills
 
-## Performs well solo and as part of a team. 
+## Performs well solo and as part of a team.
 
 ## Excels at finishing before a deadline.
 
@@ -38,13 +40,13 @@ title = 'Resume'
 
 ## 
 
-## Education				                 
+## Education
 
 ## Champlain College, Burlington, VT 						Class of May 2026
 
 ## Bachelor of Science Degree in Game Programming
 
-## &nbsp;	GPA 3.07 (In progress)	
+##  	GPA 3.07 (In progress)
 
 ## 
 
@@ -54,9 +56,9 @@ title = 'Resume'
 
 ## July 2019
 
-## Lead Programmer	
+## Lead Programmer
 
-## iD Tech summer course - VR Design with Unity and Oculus Go. 
+## iD Tech summer course - VR Design with Unity and Oculus Go.
 
 ## A basic First-Person shooter with targets to shoot and get points.
 
@@ -64,13 +66,13 @@ title = 'Resume'
 
 ## Champlain College Individual Projects
 
-## Lead Programmer	
+## Lead Programmer
 
-## &nbsp;      Game AI and Game Physics Final in Unreal | Team Size: 1	
+##        Game AI and Game Physics Final in Unreal | Team Size: 1
 
 ## Made a final project in Unreal Engine where I created enemies that act with behavior trees and are very flexible with different kinds of enemies. I even made wall running and jumping physics as a bonus.
 
-## Game Programming Advance Seminar  | Team Size: 1	
+## Game Programming Advance Seminar  | Team Size: 1
 
 ## Made a multiplayer fighting game called Retaliate that used my own custom animation in Unreal that fight with different combo attacks and special attacks.
 
@@ -82,15 +84,15 @@ title = 'Resume'
 
 ## Note Evasion:| Team Size: 	5
 
-## Lumberjack Games: | Team Size: 7 (Need admin approval to access)	
+## Lumberjack Games: | Team Size: 7 (Need admin approval to access)
 
 ## Lurking Below | Team Size 8
 
-## Jurassic Pack | Team Size 8			      
+## Jurassic Pack | Team Size 8
 
 ## Lead Programmer
 
-## https://commandburn.itch.io 
+## https://commandburn.itch.io
 
 ## Lead Programmer
 
@@ -133,6 +135,4 @@ title = 'Resume'
 ## Worked in Unreal Engine 5 C++ to make an endless runner.
 
 ## Learned useful tools for managing repositories and code.
-
-
 
