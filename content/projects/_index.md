@@ -4,5 +4,7 @@ draft = false
 title = 'Projects'
 
 theme = 'mana'
+
+layout = 'list'
 +++
 
