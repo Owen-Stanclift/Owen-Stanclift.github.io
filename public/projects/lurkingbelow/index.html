@@ -404,7 +404,7 @@
             stroke-width="2"
             d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
         </svg>
-        77 words
+        79 words
       </span>
     
 
@@ -431,6 +431,77 @@
       <div class="post-content-main">
         <h2 id="description">Description</h2>
 <p>My first networking game with a larger team. A three player Chase &rsquo;em that involves a diver fixing machines underwater, an engineer in the submarine to guide the diver, and the creature who tries to hunt the diver. I spent a lot of time learning how Networking works in Unreal and made a functioning lobby system that can assign roles to each player as well as create all the tasks the Engineer does in the submarine.</p>
+
+
+<div class="slideshow-container">
+    
+    <div class="mySlides fade">
+        <img src="/images/LurkingBelow1.png" style="width:100%">
+    </div>
+    
+    <div class="mySlides fade">
+        <img src="/images/LurkingBelow2.png" style="width:100%">
+    </div>
+    
+    <div class="mySlides fade">
+        <img src="/images/LurkingBelow3.png" style="width:100%">
+    </div>
+    
+    <div class="mySlides fade">
+        <img src="/images/LurkingBelow4.png" style="width:100%">
+    </div>
+    
+    <div class="mySlides fade">
+        <img src="/images/LurkingBelow5.png" style="width:100%">
+    </div>
+    
+
+    
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+<style>
+     
+    .slideshow-container { max-width: 1000px; position: relative; margin: auto; overflow: hidden; }
+    .mySlides { display: none; }
+    .fade { animation: fade 0.5s; }
+    @keyframes fade { from {opacity: .4} to {opacity: 1} }
+
+     
+    .prev, .next {
+        cursor: pointer; position: absolute; top: 50%; width: auto;
+        padding: 16px; margin-top: -22px; color: white; font-weight: bold;
+        font-size: 18px; transition: 0.6s ease; border-radius: 0 3px 3px 0;
+        user-select: none; background-color: rgba(0,0,0,0.5);
+    }
+    .next { right: 0; border-radius: 3px 0 0 3px; }
+    .prev:hover, .next:hover { background-color: rgba(0,0,0,0.8); }
+</style>
+
+<script>
+    let slideIndex = 1;
+    showSlides(slideIndex);
+
+    
+    function plusSlides(n) {
+        showSlides(slideIndex += n);
+    }
+
+    function showSlides(n) {
+        let i;
+        let slides = document.getElementsByClassName("mySlides");
+        if (n > slides.length) {slideIndex = 1}
+        if (n < 1) {slideIndex = slides.length}
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        slides[slideIndex-1].style.display = "block";
+    }
+</script>
+
+
+
 
       </div>
 

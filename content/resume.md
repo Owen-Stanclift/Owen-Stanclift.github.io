@@ -8,79 +8,77 @@ theme = 'mana'
 
 ## Owen Stanclift
 
-## 
+## Personal Info 
 
-## Location: Clifton Park, NY
+Location: Clifton Park, NY
 
-## Contact: (518) 407-7557
+Contact: (518) 407-7557
 
-## Email: owen.stanclift@mymail.champlain.edu
+Email: owen.stanclift@mymail.champlain.edu
 
-## LinkedIn: https://www.linkedin.com/in/owen-stanclift/
+LinkedIn: https://www.linkedin.com/in/owen-stanclift/
 
 ## 
 
 ## Technical Skills
 
-## Languages \& Tools
+ Languages \& Tools
 
-## General:  C++, OpenGL, Java, Visual Studio Code
+ General:  C++, OpenGL, Java, Visual Studio Code
 
-## Gaming: Unreal Engine, Unity
+ Gaming: Unreal Engine, Unity
 
-## 
+##
 
 ## Interpersonal Skills
 
-## Performs well solo and as part of a team.
+ Performs well solo and as part of a team.
 
-## Excels at finishing before a deadline.
+ Excels at finishing before a deadline.
 
-## Quick learner.
+ Quick learner.
 
 ## 
 
 ## Education
 
-## Champlain College, Burlington, VT 						Class of May 2026
+ Champlain College, Burlington, VT 						Class of May 2026
 
-## Bachelor of Science Degree in Game Programming
+ Bachelor of Science Degree in Game Programming
 
-##  	GPA 3.07 (In progress)
+  	GPA 3.07 (In progress)
 
 ## 
 
 ## Game Projects
 
-## Summer Project | Team Size: 1
+ Summer Project | Team Size: 1
+    July 2019
 
-## July 2019
-
-## Lead Programmer
-
-## iD Tech summer course - VR Design with Unity and Oculus Go.
-
-## A basic First-Person shooter with targets to shoot and get points.
+ Lead Programmer:
+    
+iD Tech summer course - VR Design with Unity and Oculus Go.
+ 
+A basic First-Person shooter with targets to shoot and get points.
 
 ## 
 
 ## Champlain College Individual Projects
 
-## Lead Programmer
+ Lead Programmer
 
-##        Game AI and Game Physics Final in Unreal | Team Size: 1
+        Game AI and Game Physics Final in Unreal | Team Size: 1
 
-## Made a final project in Unreal Engine where I created enemies that act with behavior trees and are very flexible with different kinds of enemies. I even made wall running and jumping physics as a bonus.
+ Made a final project in Unreal Engine where I created enemies that act with behavior trees and are very flexible with different kinds of enemies. I even made wall running and jumping physics as a bonus.
 
 ## Game Programming Advance Seminar  | Team Size: 1
-
-## Made a multiplayer fighting game called Retaliate that used my own custom animation in Unreal that fight with different combo attacks and special attacks.
+ Made a multiplayer fighting game called Retaliate that used my own custom animation in Unreal that fight with different combo attacks and special attacks.
 
 ## 
 
-## Champlain College Game Studio Projects
+ Champlain College Game Studio Projects
 
-## September 2022-Present
+ September 2022-Present
 
 ## Note Evasion:| Team Size: 	5
 
@@ -90,49 +88,31 @@ theme = 'mana'
 
 ## Jurassic Pack | Team Size 8
 
-## Lead Programmer
-
-## https://commandburn.itch.io
-
-## Lead Programmer
-
-## Memory and variables
-
-## Mathematical operations
-
-## Basic file I/O
-
-## Decision making
-
-## Repetitions
-
-## Subroutine
-
 ## 
 
 ## Additional Experience
 
-## Sodexo  Employee				          January 2023 – March 2024
+ Sodexo  Employee				          January 2023 – March 2024
 
-## Part-Timer
+ Part-Timer
 
-## Succeeded in multiple areas in the cafeteria.
+ Succeeded in multiple areas in the cafeteria.
 
-## Skilled multi tasker.
+ Skilled multi tasker.
 
 ## 
 
 ## NorthEastern Veterinary Surgery
 
-## Veterinary Assistant
+ Veterinary Assistant
 
-## Set up for surgical procedures, assist surgeons with scrubbing in, maintain sterility, clean up equipment following procedures, organize supplies.
+ Set up for surgical procedures, assist surgeons with scrubbing in, maintain sterility, clean up equipment following procedures, organize supplies.
 
 ## Werewolf Moon Studio Internship
 
-## Intern
+ Intern
 
-## Worked in Unreal Engine 5 C++ to make an endless runner.
+ Worked in Unreal Engine 5 C++ to make an endless runner.
 
-## Learned useful tools for managing repositories and code.
+ Learned useful tools for managing repositories and code.
 
