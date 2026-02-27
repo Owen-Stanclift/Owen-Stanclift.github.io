@@ -7,19 +7,12 @@ theme = 'mana'
 
 ## Introduction
 
+Hello! I'm Owen,
 
+I love playing video games and creating them. I always enjoy playing games that make you think about your builds and strategies.
 
-Hello, My name is Owen Stanclift.
+Please feel free to reach out to me and browse through the projects I've worked on!
 
-I'm a Game Programmer that specializes in multiple fields. The fields I have a lot of experience in are Gameplay, AI, and Networking.
-
-## Skills
-
-Engines: Unreal Engine 5, Unity, Visual Studio
-
-Languages: C++, C#, Java, C(Small bits)
-
-Skills: Lead Programmer, Memory and variables, Mathematical operations, Basic file I/O , Decision making , Repetitions , Subroutine
 
 ## Itch:
  https://commandburn.itch.io
@@ -28,5 +21,4 @@ Skills: Lead Programmer, Memory and variables, Mathematical operations, Basic fi
 https://www.linkedin.com/in/owen-stanclift/
 
 ## GitHub:
-https://github.com/Owen-Stanclift~~~~
-
+https://github.com/Owen-Stanclift
