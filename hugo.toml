@@ -34,19 +34,21 @@ theme = 'mana'
   weight = 10
 
 [[menus.main]]
+name = 'About'
+url = '/about/'
+weight = 20
+
+[[menus.main]]
   name = 'Projects'
   url = '/projects/'
-  weight = 20
+  weight = 30
 
 [[menus.main]]
   name = 'Resume'
   url = '/resume/'
-  weight = 30
-
-[[menus.main]]
-  name = 'About'
-  url = '/about/'
   weight = 40
+
+
 
 [pagination]
   pageSize = 10  # Number of posts per page (default: 10)
@@ -67,6 +69,9 @@ theme = 'mana'
     guessSyntax = true
     noClasses = false
     style = "catppuccin-macchiato"  # Default style
+[markup.goldmark.renderer]
+unsafe = true
+
 
   [params.codeHighlight]
     darkTheme = "catppuccin-macchiato"   # Theme for dark mode
