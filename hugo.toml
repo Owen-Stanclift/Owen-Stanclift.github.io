@@ -8,7 +8,7 @@ theme = 'mana'
     dir = ':cacheDir/images'
  
 [params]
-  description = "Hello, My name is Owen Stanclift. A Game Programmer who loves to bring creatives ideas to life"
+  description = "Hello, My name is Owen Stanclift. A Game Programmer who loves to bring creatives ideas to life. If you wish to learn more click on the About tab! If you wish to view my projects, click on Projects!"
   favicon = "/favicon/favicon.ico"
   footerText = "Built with Hugo and Mana theme"  # Optional
   
@@ -21,12 +21,12 @@ theme = 'mana'
   custom404Message = "Sorry, the page you are looking for could not be found. I guess I don't have a guide for <em>everything</em>"
 
 [params.avatar]
-  url = "https://media.licdn.com/dms/image/v2/D4E03AQF_Uzwf8KfbHw/profile-displayphoto-scale_400_400/B4EZxOkEoFK0Ak-/0/1770844605470?e=1772668800&v=beta&t=f03upFgi4uocfcTEtzQiLuNHr8DwO5BQ2n74x5N2gIw"
+  url = "/images/avatar.jpg"
 
 [params.social]
+  email = "commandrburn@gmail.com"
   github = "https://github.com/Owen-Stanclift"
   linkedin = "https://www.linkedin.com/in/owen-stanclift/"
-  email = "commandrburn@gmail.com"
 
 [[menus.main]]
   name = 'Home'
