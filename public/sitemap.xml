@@ -2,38 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://owen-stanclift.github.io/projects/chop-off/</loc>
+    <loc>http://localhost:1313/projects/chop-off/</loc>
     <lastmod>2026-01-26T14:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://owen-stanclift.github.io/projects/gamearchitecturefinal/</loc>
+    <loc>http://localhost:1313/projects/lurkingbelow/</loc>
     <lastmod>2026-01-26T14:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://owen-stanclift.github.io/projects/gameaifinal/</loc>
+    <loc>http://localhost:1313/projects/deceitful-shadow/</loc>
     <lastmod>2026-01-26T14:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://owen-stanclift.github.io/projects/jurassicpack/</loc>
+    <loc>http://localhost:1313/projects/note-evasion/</loc>
     <lastmod>2026-01-26T14:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://owen-stanclift.github.io/projects/lurkingbelow/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-01-26T14:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://owen-stanclift.github.io/projects/note-evasion/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-26T14:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://owen-stanclift.github.io/about/</loc>
+    <loc>http://localhost:1313/projects/prehistoricpack/</loc>
     <lastmod>2026-01-26T14:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://owen-stanclift.github.io/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-01-26T14:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://owen-stanclift.github.io/projects/</loc>
+    <loc>http://localhost:1313/resume/</loc>
     <lastmod>2026-01-26T14:19:36-05:00</lastmod>
   </url><url>
-    <loc>https://owen-stanclift.github.io/resume/</loc>
-    <lastmod>2026-01-26T14:19:36-05:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://owen-stanclift.github.io/categories/</loc>
-  </url><url>
-    <loc>https://owen-stanclift.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
