@@ -12,7 +12,11 @@ images = [
     "images/Chop_Off4.png"
 ]
 +++
-
+## Role: Gameplay Programmer
+### - Scene Transitions
+### - All minigames
+### - Tutorial Videos
+### - Score Board
 ## Description
 
 

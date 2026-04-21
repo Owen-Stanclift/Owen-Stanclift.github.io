@@ -12,7 +12,10 @@ images = [
     "images/NoteEvasion4.png"   
 ]
 +++
-
+## Role: System Programmer
+### - Map Creation
+### - Beat System
+### - Enemy Spawn System (Sync with time to song)
 ## Description
 
 

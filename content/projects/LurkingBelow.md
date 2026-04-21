@@ -12,7 +12,10 @@ images = [
     "images/LurkingBelow5.png"
 ]
 +++
-
+## Role: Networking Programmer
+### - LAN server connection
+### - Lobby system
+### - Engineer tasks
 ## Description
 
 

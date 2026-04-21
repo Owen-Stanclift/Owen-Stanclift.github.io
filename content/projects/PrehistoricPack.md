@@ -12,7 +12,12 @@ images = [
     "images/JurassicPack4.png"
 ]
 +++
-
+## Role: Generalist Programmer 
+### - Enemy AI Pipeline
+### - Animation Pipeline
+### - Sound Pipeline
+### - Guidebook 
+### - Ability System
 ## Description
 
 
