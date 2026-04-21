@@ -12,7 +12,13 @@ images = [
     "images/DeceitfulShadow4.png"   
 ]
 +++
-
+## Role: AI Programmer
+### - Enemy Behavior
+### - Animation Pipeline
+### - UI Programming
+### - Gun System
+### - Stealth System
+### - Shadow Material
 ## Description
 
 
